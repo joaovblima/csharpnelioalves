@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\joao_\\OneDrive\\\u00C1rea de Trabalho\\projetos\\c#\\c# nelio\\TesteForMedia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E512B6E-3C3F-4621-BD32-815975888ABA}|TesteForMedia\\TesteForMedia.csproj|c:\\users\\joao_\\onedrive\\\u00E1rea de trabalho\\projetos\\c#\\c# nelio\\testeformedia\\testeformedia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E512B6E-3C3F-4621-BD32-815975888ABA}|TesteForMedia\\TesteForMedia.csproj|solutionrelative:testeformedia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\joao_\\OneDrive\\\u00C1rea de Trabalho\\projetos\\c#\\c# nelio\\TesteForMedia\\TesteForMedia\\Program.cs",
+              "RelativeDocumentMoniker": "TesteForMedia\\Program.cs",
+              "ToolTip": "C:\\Users\\joao_\\OneDrive\\\u00C1rea de Trabalho\\projetos\\c#\\c# nelio\\TesteForMedia\\TesteForMedia\\Program.cs*",
+              "RelativeToolTip": "TesteForMedia\\Program.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T00:36:45.693Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

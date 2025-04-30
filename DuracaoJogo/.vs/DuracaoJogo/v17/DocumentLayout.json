@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\joao_\\OneDrive\\\u00C1rea de Trabalho\\projetos\\c#\\c# nelio\\DuracaoJogo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07F67274-AF4A-4F6B-A745-940AA1D52769}|DuracaoJogo\\DuracaoJogo.csproj|c:\\users\\joao_\\onedrive\\\u00E1rea de trabalho\\projetos\\c#\\c# nelio\\duracaojogo\\duracaojogo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07F67274-AF4A-4F6B-A745-940AA1D52769}|DuracaoJogo\\DuracaoJogo.csproj|solutionrelative:duracaojogo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\joao_\\OneDrive\\\u00C1rea de Trabalho\\projetos\\c#\\c# nelio\\DuracaoJogo\\DuracaoJogo\\Program.cs",
+              "RelativeDocumentMoniker": "DuracaoJogo\\Program.cs",
+              "ToolTip": "C:\\Users\\joao_\\OneDrive\\\u00C1rea de Trabalho\\projetos\\c#\\c# nelio\\DuracaoJogo\\DuracaoJogo\\Program.cs",
+              "RelativeToolTip": "DuracaoJogo\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA8wBYAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T13:39:36.876Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

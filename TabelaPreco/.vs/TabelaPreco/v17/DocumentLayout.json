@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\joao_\\OneDrive\\\u00C1rea de Trabalho\\projetos\\c#\\c# nelio\\TabelaPreco\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44671893-18D9-45C7-AB8E-20EA58E8A473}|TabelaPreco\\TabelaPreco.csproj|c:\\users\\joao_\\onedrive\\\u00E1rea de trabalho\\projetos\\c#\\c# nelio\\tabelapreco\\tabelapreco\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44671893-18D9-45C7-AB8E-20EA58E8A473}|TabelaPreco\\TabelaPreco.csproj|solutionrelative:tabelapreco\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\joao_\\OneDrive\\\u00C1rea de Trabalho\\projetos\\c#\\c# nelio\\TabelaPreco\\TabelaPreco\\Program.cs",
+              "RelativeDocumentMoniker": "TabelaPreco\\Program.cs",
+              "ToolTip": "C:\\Users\\joao_\\OneDrive\\\u00C1rea de Trabalho\\projetos\\c#\\c# nelio\\TabelaPreco\\TabelaPreco\\Program.cs",
+              "RelativeToolTip": "TabelaPreco\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAmwCwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T14:56:44.047Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
