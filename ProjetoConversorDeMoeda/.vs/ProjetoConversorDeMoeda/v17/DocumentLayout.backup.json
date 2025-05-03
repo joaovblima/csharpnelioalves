@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\joao_\\OneDrive\\\u00C1rea de Trabalho\\projetos\\c#\\c# nelio\\ProjetoConversorDeMoeda\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F3433C1-85D8-4E50-AF43-AD6DD912647A}|ProjetoConversorDeMoeda\\ProjetoConversorDeMoeda.csproj|c:\\users\\joao_\\onedrive\\\u00E1rea de trabalho\\projetos\\c#\\c# nelio\\projetoconversordemoeda\\projetoconversordemoeda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F3433C1-85D8-4E50-AF43-AD6DD912647A}|ProjetoConversorDeMoeda\\ProjetoConversorDeMoeda.csproj|solutionrelative:projetoconversordemoeda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F3433C1-85D8-4E50-AF43-AD6DD912647A}|ProjetoConversorDeMoeda\\ProjetoConversorDeMoeda.csproj|c:\\users\\joao_\\onedrive\\\u00E1rea de trabalho\\projetos\\c#\\c# nelio\\projetoconversordemoeda\\projetoconversordemoeda\\conversormoeda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F3433C1-85D8-4E50-AF43-AD6DD912647A}|ProjetoConversorDeMoeda\\ProjetoConversorDeMoeda.csproj|solutionrelative:projetoconversordemoeda\\conversormoeda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConversorMoeda.cs",
+              "DocumentMoniker": "C:\\Users\\joao_\\OneDrive\\\u00C1rea de Trabalho\\projetos\\c#\\c# nelio\\ProjetoConversorDeMoeda\\ProjetoConversorDeMoeda\\ConversorMoeda.cs",
+              "RelativeDocumentMoniker": "ProjetoConversorDeMoeda\\ConversorMoeda.cs",
+              "ToolTip": "C:\\Users\\joao_\\OneDrive\\\u00C1rea de Trabalho\\projetos\\c#\\c# nelio\\ProjetoConversorDeMoeda\\ProjetoConversorDeMoeda\\ConversorMoeda.cs",
+              "RelativeToolTip": "ProjetoConversorDeMoeda\\ConversorMoeda.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T13:39:47.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\joao_\\OneDrive\\\u00C1rea de Trabalho\\projetos\\c#\\c# nelio\\ProjetoConversorDeMoeda\\ProjetoConversorDeMoeda\\Program.cs",
+              "RelativeDocumentMoniker": "ProjetoConversorDeMoeda\\Program.cs",
+              "ToolTip": "C:\\Users\\joao_\\OneDrive\\\u00C1rea de Trabalho\\projetos\\c#\\c# nelio\\ProjetoConversorDeMoeda\\ProjetoConversorDeMoeda\\Program.cs*",
+              "RelativeToolTip": "ProjetoConversorDeMoeda\\Program.cs*",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAawBAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T13:33:59.489Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
